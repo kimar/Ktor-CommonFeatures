@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ktor-Common-Features.iml" filepath="$PROJECT_DIR$/.idea/modules/Ktor-Common-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ktor-Common-Features_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Ktor-Common-Features_main.iml" group="Ktor-Common-Features" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ktor-Common-Features_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Ktor-Common-Features_test.iml" group="Ktor-Common-Features" />
+    </modules>
+  </component>
+</project>
